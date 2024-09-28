@@ -3,4 +3,9 @@ numpy
 pandas
 matplotlib
 seaborn
-sqlite3
+seaborn
+flask
+streamlit
+scikit-learn
+bs4
+requests
